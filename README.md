@@ -8,3 +8,4 @@
 ## [汇编语言基础（未竟）](https://gitee.com/Corvey/note/blob/master/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%EF%BC%88%E6%9C%AA%E7%AB%9F%EF%BC%89.md)
 ## [Gson笔记](https://gitee.com/Corvey/note/blob/master/Gson%E7%AC%94%E8%AE%B0.md)
 ## [Quartz笔记](https://gitee.com/Corvey/note/blob/master/quartz%E7%AC%94%E8%AE%B0.md)
+## [深入理解Java虚拟机 笔记](https://github.com/eva-ustc/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AC%94%E8%AE%B0.md)
